@@ -4,6 +4,6 @@
   <title>Temporary Title</title>
 </head>
 <body>
-  <p>Welcome!</p>
+  <p>Hello World!</p>
 </body>
 </html>
