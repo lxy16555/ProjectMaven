@@ -11,6 +11,7 @@ public class AppController
   @RequestMapping("")
   public ModelAndView index()
   {
+
     return new ModelAndView("/index");
   }
 }
